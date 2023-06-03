@@ -1,0 +1,1 @@
+little app where you can authorize and share your secret
